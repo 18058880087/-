@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "a+b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-a+b-Debug-8d9360153e33f8f629c3.json",
+					"name" : "a+b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-bd7f046171c3edc518e9.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "max::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-max-Debug-73eebef0852f00f4df37.json",
+					"name" : "max",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "max2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-max2-Debug-80aeb26ca8dc827fd873.json",
+					"name" : "max2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "try::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-try-Debug-04b83ac13fcfffe389d7.json",
+					"name" : "try",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ang/CLionProjects/untitled2/cmake-build-debug",
+		"source" : "C:/Users/ang/CLionProjects/untitled2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
